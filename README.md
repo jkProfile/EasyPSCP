@@ -1,2 +1,2 @@
 # EasyPSCP
-Python tool for Windows to make PSCP a but faster
+Python tool for Windows to make PSCP a bit easier.
